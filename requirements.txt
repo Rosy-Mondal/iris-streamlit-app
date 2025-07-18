@@ -1,5 +1,3 @@
-streamlit: This is for the Streamlit framework itself.
-
-pandas: The Iris dataset is often handled with Pandas DataFrames.
-
-scikit-learn: This is the library your model.pkl file was created with. The ModuleNotFoundError is almost certainly due to this library being missing.
+streamlit
+pandas
+scikit-learn
