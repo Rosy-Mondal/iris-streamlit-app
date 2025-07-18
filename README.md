@@ -20,7 +20,7 @@ This Streamlit web application predicts the species of an Iris flower based on u
 
 Make sure you have Python installed, then run:
 
-```bash
+
 pip install streamlit scikit-learn pandas
 streamlit run app.py
 🧠 Model
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 ✨ Output
-<!-- Replace with actual screenshot file name if needed -->
+Replace with actual screenshot file name if needed 
 
 🛠️ Author
 Rosy Mondal
